@@ -1,9 +1,16 @@
 body {
     background-color: white;
+    font-family: 'Press Start 2P';
 }
+
+h1 {
+    font-size: 20px;
+    padding: 20px 0px 0px 15px
+}
+
 .main {
     background-color: white;
-    margin-top: 110px;
+    margin-top: 70px;
     padding-left: 100px;
     min-width: 1200px;
     height: 500px;
@@ -71,7 +78,6 @@ a:link, a:visited {
     border-radius: 10px;
     border: 1px solid black;
     font-weight: bold;
-    font-family: 'Press Start 2P';
 }
 
 h2 {
